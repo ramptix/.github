@@ -5,10 +5,13 @@
 
 Making AI models safer and more accessible for everyone, open-source.
 
-We're Ramptix.
+> *You're pointful.*<br />
+> <sub>— Vercel, never</sub>
 
-<a href="https://github.com/AWeirdScratcher/models" target="_blank">
-  <img alt="Explore Models"
+<br />
+
+<a href="https://github.com/ramptix/vux" target="_blank">
+  <img alt="Vux"
        src="https://img.shields.io/badge/explore%20models%20%E2%86%92-%233141f5?style=for-the-badge"
     />
 </a>

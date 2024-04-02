@@ -5,5 +5,4 @@
 
 Making AI models safer and more accessible for everyone, open-source.
 
-> *You're pointful.*<br />
-> <sub>— Vercel, never</sub>
+Nevertheless, we have more edges than [Vercel](https://github.com/vercel) 😤😤.

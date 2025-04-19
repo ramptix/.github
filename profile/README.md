@@ -11,7 +11,7 @@ nevertheless, we have more edges than [Vercel](https://github.com/vercel). 🔥
 
 at ramptix, we:
 - 🍱 have nice japanese bento for lunch
-- ❤️ have love, respect, and equal
+- ❤️ have love, respect, and equalality
 - 🌲 care about the environment
 - 💡 love new ideas and make new ideas come alive
 - 🎙️ give you a stage for sharing
